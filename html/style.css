@@ -4,6 +4,13 @@ body {
     /*color: navy;*/
 }
 
+p {
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+}
+
 h1 {
     font-size: 2em;
     /*color: #ffc;
