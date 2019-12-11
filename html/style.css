@@ -1,8 +1,10 @@
 body {
+    background: white 
+url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+    /*background-color: #ffc;*/
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #ffc;
     margin: 20px;
     padding: 0;
 }
